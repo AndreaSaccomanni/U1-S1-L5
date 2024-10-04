@@ -5,6 +5,7 @@ body {
   margin: 0;
   max-width: 100%;
   text-align: center;
+  width: 100%;
 }
 h1 {
   font-family: "Montserrat", sans-serif;
@@ -36,8 +37,6 @@ header button {
   border-width: 0px;
 }
 header p {
-  margin-left: 10px;
-  margin-right: 10px;
 }
 .logo {
   text-align: center;
@@ -88,6 +87,38 @@ article p {
 .card img {
   width: 100%;
 }
-.card {
+.card div {
+  margin-top: 50px;
+  text-align: center;
   width: 90%;
+
+  border: solid;
+  border-width: 2px;
+  display: block;
+  margin-left: 5%;
+  margin-right: 5%;
+
+  border-color: rgb(197, 190, 190);
+}
+.card p {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 50px;
+}
+footer {
+  color: antiquewhite;
+  background-color: #28a3ce;
+  padding: 55px;
+  margin-top: 60px;
+}
+footer h3 {
+  font-weight: 700;
+  font-size: 2rem;
+  padding: 20px;
+}
+hr {
+  width: 70%;
+}
+footer a {
+  color: antiquewhite;
 }
