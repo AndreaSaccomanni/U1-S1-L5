@@ -1,0 +1,93 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.5rem;
+  line-height: 1.65;
+  margin: 0;
+  max-width: 100%;
+  text-align: center;
+}
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1;
+  font-style: bold;
+  color: #28a3ce;
+  padding: 20px;
+}
+header {
+  text-align: center;
+  background-image: url(../images/banner.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+
+  size: cover;
+}
+header button {
+  background-color: #f04c2f;
+  color: white;
+  padding: 10px 25px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+  border-radius: 5px;
+  border-color: #f04c2f;
+  border-width: 0px;
+}
+header p {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.logo {
+  text-align: center;
+  background-color: black;
+}
+.logo img {
+  padding: 20px;
+  width: 120px;
+  margin-top: 10px;
+}
+h4 {
+  font-weight: 650;
+  color: #28a3ce;
+  margin-top: 60px;
+  margin-bottom: 10px;
+}
+.circle img {
+  width: 70%;
+  border-radius: 50%;
+}
+.first {
+  margin-bottom: 30px;
+}
+article {
+  color: white;
+  background-color: #f04c2f;
+}
+article h2 {
+  padding: 40px;
+  font-size: 2rem;
+  font-weight: 800;
+}
+article p {
+  padding: 30px;
+}
+.corsivo {
+  font-style: italic;
+}
+.mario {
+  padding-bottom: 0;
+}
+.ceo {
+  padding: 0;
+  font-weight: 100;
+  font-size: 1rem;
+  padding-bottom: 40px;
+}
+.card img {
+  width: 100%;
+}
+.card {
+  width: 90%;
+}
